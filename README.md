@@ -1,4 +1,4 @@
-# Crwn-Clothing - React App w/ GraphQL, Firebase & Stripe.
+# Image Recognition React App.
 
 A React app that allows users to register, login and to detect faces in pictures using IBM Clarafai’s A.I API.
 
@@ -19,7 +19,7 @@ Please install [Git](https://git-scm.com/downloads) & [NodeJS](https://nodejs.or
 ### Clone the repo
 
 ```bash
-git clone https://github.com/kazmiali/crwn-clothing.git smartbrainapp  # clone the repository
+git clone https://github.com/kazmiali/smartbrainapp.git smartbrainapp  # clone the repository
 
 cd smartbrainapp  # navigate to project folder
 ```
