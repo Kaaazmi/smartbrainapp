@@ -27,7 +27,7 @@ cd smartbrainapp  # navigate to project folder
 ### Install dependencies
 
 ```bash
-npm install # install nodejs server dependencies
+npm install # install react app dependencies
 ```
 
 ## Running React app 
